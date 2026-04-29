@@ -1,0 +1,6 @@
+{
+  "name": "Study Buddy Pro",
+  "description": "Your ultimate late-night focus companion with Pomodoro, AI Buddy, and Lofi vibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["image_generation"]
+}
